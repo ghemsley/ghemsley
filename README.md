@@ -6,10 +6,6 @@ I'm **Graham Hemsley**, and this is where I store a lot of the stuff I work on.
 
 I am a proud graduate of **Flatiron School** where I studied full-stack software engineering. 
 
-I'm also taking a course on **full-stack NodeJS development**.
-
-I'm also ***looking for work!***
-
 My main proficiencies include:
 - React
 - Redux
